@@ -1,0 +1,5 @@
+python3 -m venv venv
+source venv/bin/activate
+
+criei o arquivo .gitignore para python
+site: https://www.toptal.com/developers/gitignore
